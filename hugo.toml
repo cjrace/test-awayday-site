@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "https://github.com/cjrace/test-awayday-site"
 title = "Stats Away Day 2025"
 theme = "hugo-coder"
 languagecode = "en"
