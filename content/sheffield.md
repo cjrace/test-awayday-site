@@ -89,7 +89,7 @@ title = "Sheffield"
 ### The Wave
 ![The Wave (source:hlmarchitects)](./../images/Site/Sheffield/Key-Places/The-Wave.webp)
 
-[More Information](/venue)  
+[More Information](../venue)  
 [Back to Map](#map)
 
 ## Things to See
